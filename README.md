@@ -18,6 +18,11 @@ Dans cette application on pourras retrouvé le pokédex de pokémon .
 * Changement de la police de l’application 
 * Affichage du détail d’un item de la liste
 * Création de bouton qui permette de passer d’un élément à un autre de la liste crée
+* BDD pour les identifants de connexion
+* Utilisation de google Firebase
+* Traduction de l'application ( anglais / français )
+* Logging / création de compte
+* Possibilité de réinitialiser sont mot de passe
 
 ## Fonctionnalités:
 
