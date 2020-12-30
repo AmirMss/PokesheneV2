@@ -1,15 +1,20 @@
 <resources>
     <string name="app_name">Pokeshene</string>
     <string name="title_activity_pokemon_info">PokemonInfoActivity</string>
-    <string name="moves">Habilité:</string>
-    <string name="weight">Poids:</string>
+    <string name="moves">Habilitys:</string>
+    <string name="weight">Weight:</string>
     <string name="types">Types:</string>
     <string name="type">Type:</string>
-    <string name="imageLoadError">Erreur chargement d\'image</string>
-    <string name="wrongResponse">Réponse du server incorrecte</string>
-    <string name="pokemonSize">Taille:</string>
+    <string name="imageLoadError">Loading picture error </string>
+    <string name="wrongResponse">Bad response of the server</string>
+    <string name="pokemonSize">Size:</string>
     <string name="reset_email_instructions">We have sent you instructions to your email</string>
     <string name="failed_reset_email">Failed to send you a reset Email</string>
     <string name="enter_your_email">Enter your email</string>
-    <string name="forgot_password">Forgot Password</string>
+    <string name="forgot_password" translatable="false">Forgot Password</string>
+    <string name="User_not_created">User Not created</string>
+    <string name="enter_valid_password">Please Enter a valid Password</string>
+    <string name="please_enter_email">Please Entre your email.</string>
+    <string name="pleasee_enter_email">Please Enter your email</string>
+    <string name="validpassword">Please Enter a valid Password</string>
 </resources>

@@ -55,11 +55,11 @@ class LoginActivity : AppCompatActivity() {
         val password = password.text.toString()
 
         if (!Utils.validateEmail(email)){
-            Toast.makeText(applicationContext,"Please Entre your email.",Toast.LENGTH_SHORT).show()
+            Toast.makeText(applicationContext,getString(R.string.pleasee_enter_email),Toast.LENGTH_SHORT).show()
             return
         }
         if (!Utils.validatePassword(password)) {
-            Toast.makeText(applicationContext, "Please Enter a valid Password", Toast.LENGTH_SHORT).show()
+            Toast.makeText(applicationContext, getString(R.string.validpassword), Toast.LENGTH_SHORT).show()
             return
         }
         progressBar!!.visibility = View.VISIBLE

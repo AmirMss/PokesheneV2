@@ -50,7 +50,7 @@ class SignupActivity : AppCompatActivity() {
         if (!Utils.validateEmail(email)) {
             Toast.makeText(
                 applicationContext,
-                "Please Entre your email.",
+                getString(R.string.please_enter_email),
                 Toast.LENGTH_SHORT
             ).show()
             return
@@ -58,7 +58,7 @@ class SignupActivity : AppCompatActivity() {
         if (!Utils.validatePassword(password)) {
             Toast.makeText(
                 applicationContext,
-                "Please Enter a valid Password",
+                getString(R.string.enter_valid_password),
                 Toast.LENGTH_SHORT
             ).show()
             return
@@ -79,7 +79,7 @@ class SignupActivity : AppCompatActivity() {
                 if (!task.isSuccessful) {
                     Toast.makeText(
                         this@SignupActivity,
-                        "User Not created",
+                        getString(R.string.User_not_created),
                         Toast.LENGTH_SHORT
                     ).show()
                     return@OnCompleteListener

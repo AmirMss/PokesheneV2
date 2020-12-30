@@ -8,7 +8,13 @@
     <string name="imageLoadError">Erreur chargement d\'image</string>
     <string name="wrongResponse">Réponse du server incorrecte</string>
     <string name="pokemonSize">Taille:</string>
-    <string name="reset_email_instructions">We have sent you instructions to your email</string>
-    <string name="failed_reset_email">Failed to send you a reset Email</string>
-    <string name="enter_your_email">Enter your email</string>
+    <string name="reset_email_instructions">Nous n\'avons pas pus envoyer d\'email</string>
+    <string name="failed_reset_email">Email non envoyer ERREUR</string>
+    <string name="enter_your_email">Entre ton email !</string>
+    <string name="forgot_password" translatable="false">Forgot Password</string>
+    <string name="User_not_created">Utilisateur non crée</string>
+    <string name="enter_valid_password">Entre un mot de passe valide/string>
+    <string name="please_enter_email">Entre ton email !</string>
+    <string name="pleasee_enter_email">Entre ton email !</string>
+    <string name="validpassword">Rentre un mot de passe valide</string>
 </resources>
