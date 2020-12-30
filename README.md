@@ -22,7 +22,7 @@ Dans cette application on pourras retrouvé le pokédex de pokémon .
 * Utilisation de google Firebase
 * Traduction de l'application ( anglais / français )
 * Logging / création de compte
-* Possibilité de réinitialiser sont mot de passe
+* Possibilité de réinitialiser sont mot de passe 
 
 ## Fonctionnalités:
 
