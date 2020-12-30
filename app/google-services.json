@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021847821661",
+    "project_id": "pokeshene",
+    "storage_bucket": "pokeshene.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021847821661:android:4895c67329a6876920dcb4",
+        "android_client_info": {
+          "package_name": "com.example.pokeshene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021847821661-mqlpi57hbth59gl8ldvp212dqer4a0ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2qfu4y6Cpt6m4hM7lfXJVPmJjL8VaZGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021847821661-mqlpi57hbth59gl8ldvp212dqer4a0ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
