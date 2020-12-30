@@ -17,4 +17,15 @@
     <string name="please_enter_email">Please Entre your email.</string>
     <string name="pleasee_enter_email">Please Enter your email</string>
     <string name="validpassword">Please Enter a valid Password</string>
+    <string name="reset_password">Reset your password</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="forgot_passwords" translatable="false">Forgot Password</string>
+    <string name="enterr_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="longin2">Login</string>
+    <string name="forgotpass2">Forgot your password</string>
+    <string name="resgister2">Register</string>
+    <string name="Enterpassword">Enter your password</string>
+    <string name="enteremail">Enter your email</string>
 </resources>

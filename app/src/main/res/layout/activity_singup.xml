@@ -21,7 +21,7 @@
             android:id="@+id/emailSignup"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Enter your email"
+            android:hint="@string/enteremail"
             android:inputType="textEmailAddress"
             android:maxLines="1"
             android:textColor="@android:color/white" />
@@ -34,7 +34,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:focusableInTouchMode="true"
-            android:hint="Enter your password"
+            android:hint="@string/Enterpassword"
             android:imeActionId="@+id/login"
             android:imeOptions="actionUnspecified"
             android:inputType="textPassword"
@@ -50,7 +50,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:background="#e3df0e"
-            android:text="Register"
+            android:text="@string/resgister2"
             android:textColor="@android:color/black"
             android:textStyle="bold" />
 
@@ -60,7 +60,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dip"
             android:background="#2d69a1"
-            android:text="Forgot your password"
+            android:text="@string/forgotpass2"
             android:textAllCaps="false"
             android:textColor="#e3df0e" />
 
@@ -72,7 +72,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dip"
             android:background="@null"
-            android:text="Login"
+            android:text="@string/longin2"
             android:textAllCaps="false"
             android:textColor="#e3df0e"
             android:textSize="15sp" />

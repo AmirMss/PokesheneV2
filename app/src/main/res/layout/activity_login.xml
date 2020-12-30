@@ -33,7 +33,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:hint="Enter your password"
+            android:hint="@string/enterr_password"
             android:inputType="textPassword"
             android:textColor="@android:color/white"
             android:textColorHint="@android:color/white" />
@@ -47,7 +47,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dip"
             android:background="@color/red"
-            android:text="Login"
+            android:text="@string/login"
             android:textColor="@android:color/black" />
 
         <Button
@@ -68,7 +68,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dip"
             android:background="@null"
-            android:text="Register"
+            android:text="@string/register"
             android:textAllCaps="false"
             android:textColor="@color/white"
             android:textSize="15dp"
