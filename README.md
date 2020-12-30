@@ -54,7 +54,7 @@ Image de l'ecran de connexion
 
 
 
-#Plus qu'à aller sur ma gmail pour changer le mot de passe !
+# Plus qu'à aller sur mon adresse gmail pour changer le mot de passe !
 
 
 ![image 5](https://github.com/AmirMss/PokesheneV2/blob/master/image/gmail.png)
